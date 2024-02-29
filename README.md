@@ -1,2 +1,2 @@
 zennの記事のためのリポジトリ
-[zennのアカウントはこちら]: https://zenn.dev/aoi0318
+[zennのアカウントはこちら](https://zenn.dev/aoi0318)
