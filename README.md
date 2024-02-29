@@ -1,3 +1,2 @@
-# Zenn CLI
-
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+zennの記事のためのリポジトリ
+[zennのアカウントはこちら]: https://zenn.dev/aoi0318
